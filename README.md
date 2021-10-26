@@ -7,3 +7,5 @@ The first Codecademy portfolio project. Ultimately it just came down to manipula
 
 ## Netflix and Stocks
 A project primarily about plotting data using matplotlib's pyplot, with some minor dataframe manipulation with Pandas. Plots used included bar graphs, line graphs, scatter plots and violin plots. Plot manipulation (titles, xticks, size, layout) is also included.
+## Kiva Loans
+A project around using Seaborn instead of pyplot to create visualizations. Used bar charts, box plots, and violin plots. Also modified graph styling including color palettes, graph sizes, and hue, to aid data visualization.
