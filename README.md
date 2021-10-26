@@ -4,6 +4,8 @@ A place for me to showcase the portfolio projects done through the Codecademy Da
 
 ## Medical Insurance
 The first Codecademy portfolio project. Ultimately it just came down to manipulating a large list of dictionaries, supplied through csv. Decided not to spend too much time on it since it's quite basic.
+## Hurricanes
+Mainly a python project about dictionary using information on hurricanes. Heavy use of for loops and if/else statements.
 ## Jeopardy
 A project about data frame manipulation using Pandas, using a dataset from popular gameshow Jeopardy.
 ## Netflix and Stocks
